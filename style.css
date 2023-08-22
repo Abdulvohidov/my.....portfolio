@@ -7,7 +7,7 @@
 .body {
     
     background-color: #a99191;
-}
+    }
 
 
 .container {
@@ -26,6 +26,7 @@
     padding: 10px;
     padding: 20px;
     background: #e6d4d4;
+    color: black;
 }
 
 .card img {
@@ -44,7 +45,7 @@ text-decoration: none;
 }
 
 
-@media (max-width:83git 0px) {
+@media (max-width:800px) {
     .container {
         grid-template-columns: 1fr 1fr;
     }
